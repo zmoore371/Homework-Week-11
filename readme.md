@@ -20,6 +20,14 @@
    
    ## Usage
    Use server to create and store user data to be rendered at a later time.
+
+   ## Screenshot  
+
+   ![First page](./screen/screen1.png)  
+
+   ![Note page](./screen/screen2.png)
+
+   Application is live at [link](https://note-taker-371.herokuapp.com/)
    
    ## License
    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
